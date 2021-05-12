@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Momenku</string>
+    <string name="image">image</string>
+    <string name="title_activity_beranda">MainActivity</string>
+    <string name="title_home">Beranda</string>
+    <string name="tittle_profile">Profil</string>
+    <string name="momenku">Momenku</string>
+    <string name="nama_kamu">Nama Kamu</string>
+    <string name="hobi_kamu">Hobi Kamu</string>
+    <string name="aboutDeveloper">I Worked as an Android Developer, for the past two years. I was responsible for the development and management of an Android Mobile App, I was leading a team of 2 Junior Developer to developing marketplace app. I using Kotlin for native Android app development, and I using Flutter for multi-platform app development. Understand Firebase as a Back-end service and understand to parsing JSON payload with RESTful API.  Looking for a position to develop Mobile App with a company that appreciate creativity and freedom of innovation.</string>
+</resources>
